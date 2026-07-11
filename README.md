@@ -41,5 +41,5 @@ Looking to optimize your operations, cut down cloud platform overheads, or build
 
 🛩️ **[Find all my official channels on Linktree](https://linktr.ee/f22mation)**
 
-* **LinkedIn:** [f22mation on LinkedIn](https://linkedin.com) *(Insert your actual link here once ready)*
+* **LinkedIn:** [f22mation on LinkedIn](https://www.linkedin.com/in/f22mation/) 
 * **Email:** [f22mation@gmail.com](mailto:f22mation@gmail.com)
