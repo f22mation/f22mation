@@ -2,13 +2,13 @@
 
  **Systems break. APIs delay. Networks blink. We build for the exceptions.**
 
-Welcome to **F22mation**. I design AI-powered automation systems specializing in designing high-speed, stealth, and fault-tolerant digital infrastructures. Rooted in critical thinking, mathematical logic, and a skeptical systems-design philosophy, I transform fragile, manually-driven business workflows into resilient, self-healing automated engines.
+Welcome to **F22mation**. I design AI-powered automation systems focused on high-speed, stealth, and fault-tolerant digital infrastructures. Rooted in critical thinking, mathematical logic, and a skeptical systems-design philosophy, I transform fragile, manually-driven business workflows into resilient, self-healing automated engines.
 
 
 
 ## 🧠 Core Engineering Philosophy
 
-Most automation configurations are built for ideal scenarios. I architect exclusively for **failure and scale**. My workflows don’t just connect nodes; they enforce data integrity and system resilience through:
+Most automation configurations are built for ideal scenarios. I design workflows with **failure scenarios and scalability in mind**. My workflows don’t just connect nodes; they enforce data integrity and system resilience through:
 * **Deterministic Idempotency:** Custom-hashed pipelines preventing duplicate operations across CRMs and databases.
 * **State Enforcement & Flagging:** Rigorous state tracking (`processed`, `notified`, `failed`) to protect API quotas and maximize bandwidth.
 * **Reconciliation Loops (Sweepers):** Asynchronous time-triggered routines that auto-recover stuck data or handle local downtime.
