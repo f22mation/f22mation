@@ -2,7 +2,7 @@
 
  **Systems break. APIs delay. Networks blink. We build for the exceptions.**
 
-Welcome to **F22mation**. I am an Automation Architect specializing in designing high-speed, stealth, and fault-tolerant digital infrastructures. Rooted in critical thinking, mathematical logic, and a skeptical systems-design philosophy, I transform fragile, manually-driven business workflows into resilient, self-healing automated engines.
+Welcome to **F22mation**. I design AI-powered automation systems specializing in designing high-speed, stealth, and fault-tolerant digital infrastructures. Rooted in critical thinking, mathematical logic, and a skeptical systems-design philosophy, I transform fragile, manually-driven business workflows into resilient, self-healing automated engines.
 
 
 
@@ -17,9 +17,9 @@ Most automation configurations are built for ideal scenarios. I architect exclus
 
 ## ⚡ Skills & Expertise
 
-* **Architecture:** Event-Driven Orchestration, High-Volume Data Ingestion, Human-in-the-Loop Integrations.
-* **Logic Design:** Advanced Prompt Chaining, Rate-Limit Mitigation, Dynamic Conditional Routing.
-* **DevOps:** Local Self-Hosted Workspaces, Secure Gateway Tunneling, Production Containerization.
+* **Architecture:** Event-Driven Orchestration, Human-in-the-Loop Integrations.
+* **Logic Design:** Rate-Limit Mitigation, Dynamic Conditional Routing.
+* **DevOps:** Local Self-Hosted Workspaces, Secure Gateway Tunneling.
 
 
 
@@ -28,7 +28,7 @@ Most automation configurations are built for ideal scenarios. I architect exclus
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Orchestration** | `n8n (Self-Hosted / Docker)` |
-| **Intelligence** | `OpenAI API (GPT-4o)`, `Prompt Engineering` |
+| **Intelligence** | `OpenAI API, LLM-based Automation`, `Prompt Engineering` |
 | **Development** | `JavaScript (ES6+)`, `Python`, `JSON` |
 | **Infrastructure** | `Docker`, `Linux CLI`, `Secure Tunneling (Serveo/Ngrok)` |
 | **Data & Core APIs** | `Google Sheets API`, `Telegram Bot API`, `RESTful Webhooks`, `SMTP/IMAP` |
