@@ -49,8 +49,8 @@ Most automation configurations are built for ideal scenarios. I design workflows
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f22mation&show_icons=true&theme=dark&hide_border=true" alt="f22mation's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f22mation&layout=compact&theme=dark&hide_border=true" alt="f22mation's top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=f22mation&show_icons=true&theme=tokyonight&include_all_commits=true" alt="f22mation's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f22mation&layout=compact&theme=tokyonight" alt="f22mation's top langs" />
 </p>
 
 ---
